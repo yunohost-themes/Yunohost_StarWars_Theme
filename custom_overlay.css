@@ -13,11 +13,28 @@
 ===============================================================================
 */
 
+
 #ynh-overlay-switch {
-  /* FIXME : idk if this is an issue or not to have /yunohost/sso hard-coded here */
-  background-image: url("./Falcon.png");
-  border-color: #eee;
-  background-color: #eee;
+    display: block;
+    position: fixed;
+    z-index: 10000000;
+    bottom: 20px;
+    right: 35px;
+    width: 100px;
+    height: 90px;
+    padding: 12px;
+    border: 12px solid grey;
+        border-top-color: grey;
+        border-right-color: grey;
+        border-bottom-color: grey;
+        border-left-color: grey;
+    border-radius: 5px;
+    background: grey;
+    background-image: url("./Falcon.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.7;
 }
 
 #ynh-overlay-switch:hover {
