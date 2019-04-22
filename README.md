@@ -1,8 +1,6 @@
 ## Yunohost_StarWars_Theme
 
-Note quant aux licences appliquées aux images utilisées pour ce thème :
-- L'image d'arrière plan (fond.jpg) a été réalisé par mes soins et placée sous licence copyleft.
-- Le logo (Falcon.png) a été également réalisé par mes soins (il s'inspire d'un logo existant (placé sous licence libre pour un usage non commercial).
+Les images - d'arrière plan (fond.jpg) et de logo  (Falcon.png) - ont été réalisées par mes soins.
 
 ## Screenshots
 
