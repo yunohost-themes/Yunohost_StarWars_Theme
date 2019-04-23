@@ -57,7 +57,7 @@ body {
     width: 2.7em;
     height: 2.7em;
     background: #666;
-    color: #fff;
+    color: yellow;
     font-size: 4em;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
@@ -65,143 +65,143 @@ body {
 }
 
 .bluebg {
-    background: #3498DB!important;
+    background: black !important;
 }
 .bluebg:hover:after,
 .bluebg:focus:after,
 .bluebg:hover:before,
 .bluebg:focus:before {
-    background: #16527A!important;
+    background: black !important;
 }
 
 .purplebg {
-    background: #9B59B6!important;
+    background: black !important;
 }
 .purplebg:hover:after,
 .purplebg:focus:after,
 .purplebg:hover:before,
 .purplebg:focus:before {
-    background: #532C64!important;
+    background: black !important;
 }
 
 .redbg {
-    background: #E74C3C!important;
+    background: black !important;
 }
 .redbg:hover:after,
 .redbg:focus:after,
 .redbg:hover:before,
 .redbg:focus:before {
-    background: #921E12!important;
+    background: black !important;
 }
 
 .orangebg {
-    background: #F39C12!important;
+    background: black !important;
 }
 .orangebg:hover:after,
 .orangebg:focus:after,
 .orangebg:hover:before,
 .orangebg:focus:before {
-    background: #7F5006!important;
+    background: black !important;
 }
 
 .greenbg {
-    background: #2ECC71!important;
+    background: black !important;
 }
 .greenbg:hover:after,
 .greenbg:focus:after,
 .greenbg:hover:before,
 .greenbg:focus:before {
-    background: #176437!important;
+    background: black !important;
 }
 
 .darkbluebg {
-    background: #34495E!important;
+    background: black !important;
 }
 .darkbluebg:hover:after,
 .darkbluebg:focus:after,
 .darkbluebg:hover:before,
 .darkbluebg:focus:before {
-    background: #07090C!important;
+    background: black !important;
 }
 
 .lightbluebg {
-    background: #6A93D4!important;
+    background: black !important;
 }
 .lightbluebg:hover:after,
 .lightbluebg:focus:after,
 .lightbluebg:hover:before,
 .lightbluebg:focus:before {
-    background: #2B5394!important;
+    background: black !important;
 }
 
 .yellowbg {
-    background: #F1C40F!important;
+    background: black !important;
 }
 .yellowbg:hover:after,
 .yellowbg:focus:after,
 .yellowbg:hover:before,
 .yellowbg:focus:before {
-    background: #796307!important;
+    background: black !important;
 }
 
 
 .lightpinkbg {
-    background: #F76F87!important;
+    background: black !important;
 }
 .lightpinkbg:hover:after,
 .lightpinkbg:focus:after,
 .lightpinkbg:hover:before,
 .lightpinkbg:focus:before {
-    background: #DA0C31!important;
+    background: black !important;
 }
 
 /* Following colors are not used yet */
 
 .pinkbg {
-    background: #D66D92!important;
+    background: black !important;
 }
 .pinkbg:hover:after,
 .pinkbg:focus:after,
 .pinkbg:hover:before,
 .pinkbg:focus:before {
-    background: #992B52!important;
+    background: black !important;
 }
 
 .turquoisebg {
-    background: #1ABC9C!important;
+    background: black !important;
 }
 .turquoisebg:hover:after,
 .turquoisebg:focus:after,
 .turquoisebg:hover:before,
 .turquoisebg:focus:before {
-    background: #0B4C3F!important;
+    background: black !important;
 }
 .lightyellow {
-    background: #FFC973!important;
+    background: black !important;
 }
 .lightyellow:hover:after,
 .lightyellow:focus:after,
 .lightyellow:hover:before,
 .lightyellow:focus:before {
-    background: #F39500!important;
+    background: black!important;
 }
 .lightgreen {
-    background: #B5F36D!important;
+    background: black !important;
 }
 .lightgreen:hover:after,
 .lightgreen:focus:after,
 .lightgreen:hover:before,
 .lightgreen:focus:before {
-    background: #77CF11!important;
+    background: black !important;
 }
 .purpledarkbg {
-    background: #8E44AD!important;
+    background: black !important;
 }
 .purpledarkbg:hover:after,
 .purpledarkbg:focus:after,
 .purpledarkbg:hover:before,
 .purpledarkbg:focus:before {
-    background: #432051!important;
+    background: black !important;
 }
 
 /* Personnalisation des blocs d'information de la page de connexion */
