@@ -2,7 +2,7 @@
 
 Les images - d'arrière plan (fond.jpg) et de logo  (Falcon.png) - ont été réalisées par mes soins.
 
-## How to install
+## Installation
 
 La procédure à suivre est expliquée ici : https://yunohost.org/#/theming
 
