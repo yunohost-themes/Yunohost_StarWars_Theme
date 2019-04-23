@@ -41,6 +41,28 @@ body {
    background: none;
 }
 
+.listing-apps a:hover, .listing-apps a:focus {
+    left: -10px;
+    top: -10px;
+    box-shadow: none;
+    opacity: 0.9;
+}
+
+.listing-apps a {
+    display: block;
+    position: relative;
+    padding: 0.2em;
+    top: 0;
+    left: 0;
+    width: 2.7em;
+    height: 2.7em;
+    background: #666;
+    color: #fff;
+    font-size: 4em;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    opacity: 0.7;
+}
 
 .bluebg {
     background: #3498DB!important;
